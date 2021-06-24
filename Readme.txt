@@ -1,2 +1,2 @@
-This is a simple application in pytho!
+This is a simple application in python!
 Run and enjoy
